@@ -1,5 +1,3 @@
-###### Hi there 👋, Yusuf here!
-
 ###### both designer & coder
 <img src='https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif' alt='gif' height='250'>
 
