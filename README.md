@@ -1,10 +1,9 @@
 ###### both designer & coder
-<img src='https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif' alt='gif' height='250'>
+<img src='https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif' alt='gif' height='200'>
 
-###### media source: https://dribbble.com/shots/4171367-Coding-Freak
 ---
-###### my projects
-[<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/9aa126229631387.68e57c6e5c355.jpg" alt="Green World" height="250"/>](https://github.com/yusufgulmezz/GreenWorld)
+###### My Projects
+[<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/9aa126229631387.68e57c6e5c355.jpg" alt="Green World" height="300"/>](https://github.com/yusufgulmezz/GreenWorld)
 
 ---
 ###### my social
@@ -16,6 +15,8 @@
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=yusufgulmezz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=yusufgulmezz&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufgulmezz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yusufgulmezz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" width="355" alt="Yusuf Gülmez'in GitHub İstatistikleri"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=yusufgulmezz&theme=tokyonight&hide_border=false" width="375" alt="Yusuf Gülmez'in GitHub Streak İstatistikleri"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufgulmezz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="270" alt="Yusuf Gülmez'in En Çok Kullandığı Diller"/>
+</p>
