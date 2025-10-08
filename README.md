@@ -3,8 +3,12 @@
 
 ---
 ###### My Projects
-[<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/9aa126229631387.68e57c6e5c355.jpg" alt="Green World" height="300"/>](https://github.com/yusufgulmezz/GreenWorld)
-&nbsp; [<img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/DET_Mockup-2.jpg" alt="Portfolio" height="300"/>](https://github.com/yusufgulmezz/portfolio)
+<a href="https://github.com/yusufgulmezz/GreenWorld" target="_blank">
+    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/9aa126229631387.68e57c6e5c355.jpg" alt="Green World" height="300"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/yusufgulmezz/portfolio" target="_blank">
+    <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/DET_Mockup-2.jpg" alt="Portfolio" height="300"/>
+</a>
 
 ---
 ###### my social
