@@ -1,10 +1,9 @@
-###### both designer & coder
+###### Welcome to my GitHub page. Yusuf here...
 <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/work_crop.gif" align="right" width="500" alt="coding gif">
 
 ### UI/UX | Designer | Developer
 
-Where creativity meets technology.
-From pixels to prototypes, from code to canvas - every project tells a story.
+Where creativity meets technology. From pixels to prototypes, from code to canvas - every project tells a story.
 
 I design and develop high-end digital experiences for design-driven companies that value attention to detail.
 
@@ -12,9 +11,11 @@ I design and develop high-end digital experiences for design-driven companies th
 - **Development:** React Native, TypeScript, Mobile Apps
 - **Goal:** Turning complex ideas into elegant solutions.
 
+###### Drop me a mail designeverythink.co@gmail.com
+
 <br clear="both">
 
-
+##
 <table>
   <tr>
     <td width="25%" align="center" valign="top">
