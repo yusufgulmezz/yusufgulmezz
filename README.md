@@ -1,5 +1,5 @@
 ###### both designer & coder
-<img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/work.gif" align="right" width="380" alt="coding gif">
+<img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/work_crop.gif" align="right" width="500" alt="coding gif">
 
 ### UI/UX | Designer | Developer
 
