@@ -1,4 +1,4 @@
-###### Welcome to my GitHub page. Yusuf here...
+###### Welcome to my GitHub page.
 <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/work_crop.gif" align="right" width="500" alt="coding gif">
 
 ### UI/UX | Designer | Developer
