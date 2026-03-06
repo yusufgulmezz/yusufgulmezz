@@ -40,12 +40,6 @@ I design and develop high-end digital experiences for design-driven companies th
       <br>
       <b>Portfolio Website</b>
     </td>
-    <td width="25%" align="center" valign="top">
-       &nbsp;
-    </td>
-    <td width="25%" align="center" valign="top">
-       &nbsp;
-    </td>
   </tr>
 </table>
 
