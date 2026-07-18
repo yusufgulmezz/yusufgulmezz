@@ -59,3 +59,5 @@ I design and develop high-end digital experiences for design-driven companies th
   <img src="https://nirzak-streak-stats.vercel.app/?user=yusufgulmezz&theme=tokyonight&hide_border=false" width="395" alt="Yusuf Gülmez'in GitHub Streak İstatistikleri"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufgulmezz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="300" alt="Yusuf Gülmez'in En Çok Kullandığı Diller"/>
 </p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yusufgulmezz&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=a9b1d6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
