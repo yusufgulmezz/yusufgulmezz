@@ -55,9 +55,9 @@ I design and develop high-end digital experiences for design-driven companies th
 ##
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yusufgulmezz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" width="375" alt="Yusuf Gülmez'in GitHub İstatistikleri"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=yusufgulmezz&theme=tokyonight&hide_border=false" width="395" alt="Yusuf Gülmez'in GitHub Streak İstatistikleri"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufgulmezz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="300" alt="Yusuf Gülmez'in En Çok Kullandığı Diller"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=yusufgulmezz&show_icons=true&theme=nord" width="375" alt="Yusuf Gülmez'in GitHub İstatistikleri"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=yusufgulmezz&theme=nord" width="395" alt="Yusuf Gülmez'in GitHub Streak İstatistikleri"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yusufgulmezz&layout=compact&theme=nord" width="300" alt="Yusuf Gülmez'in En Çok Kullandığı Diller"/>
 </p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yusufgulmezz&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=a9b1d6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
