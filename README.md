@@ -20,7 +20,7 @@ I design and develop high-end digital experiences for design-driven companies th
 <table>
   <tr>
     <td width="19.4%" align="center" valign="top">
-      <a href="https://www.behance.net/gallery/241787815/Triply-Trip-Planner-App-Play-Store">
+      <a href="https://www.behance.net/gallery/253965873/Triply-Travel-Planner-Store-Images">
         <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/Triply_mockup.png" width="100%" alt="Triply">
       </a>
       <br>
