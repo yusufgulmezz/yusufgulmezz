@@ -49,7 +49,7 @@ I design and develop high-end digital experiences for design-driven companies th
       <!-- Mağaza İkonları -->
     <div style="margin-bottom: 12px;">
       <a href="https://yusufgulmezz.github.io/portfolio">
-        <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/Web.png" width="15%" alt="App Store">
+        <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/Web.png" width="20%" alt="Portfolio">
       </a>
     </div>
       <!-- Büyük Görsel -->
