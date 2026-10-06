@@ -21,11 +21,15 @@ I design and develop high-end digital experiences for design-driven companies th
   <tr>
     <td width="19.4%" align="center" valign="top">
       <a href="https://www.behance.net/gallery/253965873/Triply-Travel-Planner-Store-Images">
-        <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/Triply_mockup.png" width="100%" alt="Triply">
+        <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_632_webp/2d9899253965873.6a765eb51cd76.jpg" width="100%" alt="Triply">
       </a>
       <br>
       <b>Triply App</b>
     </td>
+  </tr>
+  </table>
+<table>
+  <tr>
      <td width="25%" align="center" valign="top">
       <a href="https://www.behance.net/gallery/229631387/Green-World-Mobile-App-UI">
         <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/9aa126229631387.68e57c6e5c355.jpg" width="100%" alt="Green World">
