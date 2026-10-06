@@ -26,10 +26,10 @@ I design and develop high-end digital experiences for design-driven companies th
     <!-- Mağaza İkonları -->
     <div style="margin-bottom: 12px;">
       <a href="https://apps.apple.com/tr/app/triply-seyahatinizi-planlayın/id6757344673?l=tr">
-        <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/AppStore.png" width="12%" alt="App Store">
+        <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/AppStore.png" width="15%" alt="App Store">
       </a>
       <a href="https://play.google.com/store/apps/details?id=com.letradev.triply&pcampaignid=web_share">
-        <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/PlayStore.png" width="12%" alt="Play Store">
+        <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/PlayStore.png" width="15%" alt="Play Store">
       </a>
     </div>
     <!-- Büyük Görsel -->
@@ -46,6 +46,13 @@ I design and develop high-end digital experiences for design-driven companies th
       <br>
       <br>
       <p>A personal portfolio website showcasing my designs and projects, created to bring together my work in one place.</p>
+      <!-- Mağaza İkonları -->
+    <div style="margin-bottom: 12px;">
+      <a href="https://yusufgulmezz.github.io/portfolio">
+        <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/Web.png" width="15%" alt="App Store">
+      </a>
+    </div>
+      <!-- Büyük Görsel -->
       <a href="https://yusufgulmezz.github.io/portfolio/">
         <img src="https://raw.githubusercontent.com/yusufgulmezz/portfolio/refs/heads/main/DET_INTRO.gif" width="75%" alt="Portfolio">
       </a>
