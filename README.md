@@ -13,33 +13,41 @@ I design and develop high-end digital experiences for design-driven companies th
 
 ###### Drop me a mail designeverythink.co@gmail.com
 
-<br clear="both">
 
 ##
 ###### My Projects
-  <tr>
-    <td width="19.4%" valign="top">
-      <br>
-      <b>Triply: Travel Planner</b>
-      <br>
-      <br>
-      <p>Plan your trip together, create activities, split group expenses easily and share your memories.</p>
-      <a href="https://www.behance.net/gallery/253965873/Triply-Travel-Planner-Store-Images">
-        <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/d38216253965873.6ac5625ca3e9d.jpg" width="85%" alt="Triply">
+<tr>
+  <td width="19.4%" valign="top">
+    <br>
+    <b>Triply: Travel Planner</b>
+    <br>
+    <br>
+    <p>Plan your trip together, create activities, split group expenses easily and share your memories.</p>
+    <!-- Mağaza İkonları -->
+    <div style="margin-bottom: 12px;">
+      <a href="https://apps.apple.com/tr/app/triply-seyahatinizi-planlayın/id6757344673?l=tr">
+        <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/AppStore.png" width="12%" alt="App Store">
       </a>
-    </td>
-  </tr>
+      <a href="https://play.google.com/store/apps/details?id=com.letradev.triply&pcampaignid=web_share">
+        <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/PlayStore.png" width="12%" alt="Play Store">
+      </a>
+    </div>
+    <!-- Büyük Görsel -->
+    <a href="https://www.behance.net/gallery/253965873/Triply-Travel-Planner-Store-Images">
+      <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/d38216253965873.6ac5625ca3e9d.jpg" width="75%" alt="Triply">
+    </a>
+  </td>
+</tr>
   
   ##
   <tr>
     <td width="19.4%" valign="top">
-      <br>
       <b>My Portfolio</b>
       <br>
       <br>
       <p>A personal portfolio website showcasing my designs and projects, created to bring together my work in one place.</p>
       <a href="https://yusufgulmezz.github.io/portfolio/">
-        <img src="https://raw.githubusercontent.com/yusufgulmezz/portfolio/refs/heads/main/DET_INTRO.gif" width="85%" alt="Portfolio">
+        <img src="https://raw.githubusercontent.com/yusufgulmezz/portfolio/refs/heads/main/DET_INTRO.gif" width="75%" alt="Portfolio">
       </a>
     </td>
   </tr>
