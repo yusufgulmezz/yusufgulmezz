@@ -17,39 +17,32 @@ I design and develop high-end digital experiences for design-driven companies th
 
 ##
 ###### My Projects
-<table>
   <tr>
     <td width="19.4%" valign="top">
       <br>
       <b>Triply: Travel Planner</b>
       <br>
       <br>
-      <p>Plan your trip together, create activities, split group expenses easily and share your moments.</p>
+      <p>Plan your trip together, create activities, split group expenses easily and share your memories.</p>
       <a href="https://www.behance.net/gallery/253965873/Triply-Travel-Planner-Store-Images">
-        <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/d38216253965873.6ac5625ca3e9d.jpg" width="100%" alt="Triply">
+        <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/d38216253965873.6ac5625ca3e9d.jpg" width="85%" alt="Triply">
       </a>
     </td>
   </tr>
-  </table>
-<table>
+  
+  ##
   <tr>
-     <td width="25%" align="center" valign="top">
-      <a href="https://www.behance.net/gallery/229631387/Green-World-Mobile-App-UI">
-        <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/9aa126229631387.68e57c6e5c355.jpg" width="100%" alt="Green World">
-      </a>
+    <td width="19.4%" valign="top">
       <br>
-      <b>Green World App UI</b>
-    </td>
-    <td width="25%" align="center" valign="top">
-      <a href="https://github.com/yusufgulmezz/portfolio">
-        <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/DET_Portfolio.jpg" width="100%" alt="Portfolio">
-      </a>
+      <b>My Portfolio</b>
       <br>
-      <b>Portfolio Website</b>
+      <br>
+      <p>A personal portfolio website showcasing my designs and projects, created to bring together my work in one place.</p>
+      <a href="https://yusufgulmezz.github.io/portfolio/">
+        <img src="https://raw.githubusercontent.com/yusufgulmezz/portfolio/refs/heads/main/DET_INTRO.gif" width="85%" alt="Portfolio">
+      </a>
     </td>
   </tr>
-</table>
-
 
 ##
 ###### my social
