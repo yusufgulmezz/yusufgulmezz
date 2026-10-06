@@ -19,12 +19,15 @@ I design and develop high-end digital experiences for design-driven companies th
 ###### My Projects
 <table>
   <tr>
-    <td width="19.4%" align="center" valign="top">
-      <a href="https://www.behance.net/gallery/253965873/Triply-Travel-Planner-Store-Images">
-        <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_632_webp/2d9899253965873.6a765eb51cd76.jpg" width="100%" alt="Triply">
-      </a>
+    <td width="19.4%" valign="top">
       <br>
-      <b>Triply App</b>
+      <b>Triply: Travel Planner</b>
+      <br>
+      <br>
+      <p>Plan your trip together, create activities, split group expenses easily and share your moments.</p>
+      <a href="https://www.behance.net/gallery/253965873/Triply-Travel-Planner-Store-Images">
+        <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/d38216253965873.6ac5625ca3e9d.jpg" width="100%" alt="Triply">
+      </a>
     </td>
   </tr>
   </table>
