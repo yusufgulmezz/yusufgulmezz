@@ -25,7 +25,7 @@ I design and develop high-end digital experiences for design-driven companies th
     <p>Plan your trip together, create activities, split group expenses easily and share your memories.</p>
     <!-- Mağaza İkonları -->
     <div style="margin-bottom: 12px;">
-      <a href="https://apps.apple.com/tr/app/triply-seyahatinizi-planlayın/id6757344673?l=tr">
+      <a href="https://apps.apple.com/kz/app/triply-travel-planner/id6757344673">
         <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/AppStore.png" width="15%" alt="App Store">
       </a>
       <a href="https://play.google.com/store/apps/details?id=com.letradev.triply&pcampaignid=web_share">
