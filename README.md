@@ -13,12 +13,68 @@ I design and develop high-end digital experiences for design-driven companies th
 
 ###### Drop me a mail yusuf.gullmez@gmail.com
 
+##
+###### My Social & Tech
+
+<tr>
+    <div style="margin-bottom: 12px;">
+      <a href="https://www.linkedin.com/in/yusufglmz">
+        <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/social/linkedin.png" width="5%" alt="LinkedIn">
+      </a>
+      <a href="https://yusufgulmezz.github.io/portfolio">
+        <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/social/portfolio.png" width="5%" alt="Portfolio">
+      </a>
+      <a href="https://www.behance.net/designeverythink">
+        <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/social/behance.png" width="5%" alt="Béhance">
+      </a>
+      <a href="https://yusufgulmezz.medium.com">
+        <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/social/medium.png" width="5%" alt="Medium">
+      </a>
+    </div>
+</tr>
+
+<tr>
+    <div style="margin-bottom: 12px;">
+      <a href="https://claude.ai">
+        <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/tech/Claude.png" width="5%" alt="Claude">
+      </a>
+      <a href="https://www.figma.com">
+        <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/tech/Figma.png" width="5%" alt="Figma">
+      </a>
+      <a href="https://reactnative.dev">
+        <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/tech/React%20logo.png" width="5%" alt="ReactNative">
+      </a>
+      <a href="https://www.typescriptlang.org">
+        <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/tech/TypeScript.png" width="5%" alt="TypeScript">
+      </a>
+      <a href="https://firebase.google.com">
+        <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/tech/Firebase.png" width="5%" alt="Firebase">
+      </a>
+      <a href="https://expo.dev">
+        <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/tech/Expo%20logo.png" width="5%" alt="Expo">
+      </a>
+      <a href="https://git-scm.com">
+        <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/tech/Git.png" width="5%" alt="Git">
+      </a>
+      <a href="https://www.notion.com">
+        <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/tech/Notion-logo%20logo.png" width="5%" alt="Notion">
+      </a>
+      <a href="https://www.adobe.com/tr/products/photoshop.html">
+        <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/tech/Photoshop.png" width="5%" alt="AdobePhotoshop">
+      </a>
+      <a href="https://www.blender.org">
+        <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/tech/Blender.png" width="5%" alt="Blender">
+      </a>
+      <a href="https://www.aseprite.org">
+        <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/tech/Aseprite.png" width="5%" alt="Aseprite">
+      </a>
+    </div>
+</tr>
 
 ##
 ###### My Projects
 <tr>
   <td width="19.4%" valign="top">
-    <br>
     <b>Triply: Travel Planner</b>
     <br>
     <br>
@@ -58,14 +114,6 @@ I design and develop high-end digital experiences for design-driven companies th
       </a>
     </td>
   </tr>
-
-##
-###### my social
-[<img src='https://www.nicepng.com/png/detail/1-13041_logo-instagram-with-white-circle-background-png-new.png' alt='instagram' height='40'>](https://www.instagram.com/yusuf.gulmz) [<img src='https://images.icon-icons.com/3041/PNG/512/medium_logo_icon_189223.png' alt='medium' height='40'>](https://yusufgulmezz.medium.com/) [<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8HKD0IOaas37ao04SLk3Uqw3nHbDujCUhf6klMeKmqK8BCTTaR2Ld8oRry_0LTRSINS8&usqp=CAU' alt='behance' height='40'>](https://www.behance.net/designeverythink)  [<img src='https://www.clipartmax.com/png/middle/304-3041379_linkedin-with-circle-comments-transparent-background-website-icon.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/yusufglmz/)  [<img src='https://raw.githubusercontent.com/Developrimbor/developrimbor/ce1c9866321ea4d9141ea182fc62d436c330cf79/codepen.jpg' alt='codepen' height='40'>](https://codepen.io/developrimbor)  [<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC94ZonX3gJoKrvOmZynNWQhq6Wask4tujtuUc04plT8-UTEKJDZ4163Hz-3vltLonV9U&usqp=CAU' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/17153994)   
-
-##
-###### my interest
-[<img src='https://ih1.redbubble.net/image.4053581522.4386/raf,360x360,075,t,fafafa:ca443f4786.jpg' alt='Figma' height='40'>](https://www.figma.com/)  [<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi_8i8Qb7Z9bObUXTn2Ra3O6JUuhgpV0s1fQ&s' alt='JavaScript' height='40'>](https://www.javascript.com/)  [<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqlwlM4ntAKd7-uXZ-L71L8fkHpnVmRnVbXw&s' alt='TypeScript' height='40'>](https://www.typescriptlang.org/)  [<img src='https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-black-and-white.png' alt='reactJS' height='40'>](https://react.dev/)  [<img src='https://raw.githubusercontent.com/Developrimbor/developrimbor/main/LogoSS.png' alt='aseprite' height='40'>](https://www.aseprite.org/)  [<img src='https://cdn.freebiesupply.com/logos/large/2x/adobe-photoshop-cs6-logo-black-and-white.png' alt='adobephotoshop' height='40'>](https://www.adobe.com/tr/products/photoshop.html)  [<img src='https://cdn.freebiesupply.com/logos/large/2x/premiere-cc-logo-black-and-white.png' alt='adobepremierepro' height='40'>](https://www.adobe.com/tr/products/premiere.html)  [<img src='https://ih1.redbubble.net/image.786468378.5783/pp,840x830-pad,1000x1000,f8f8f8.jpg' alt='unity' height='40'>](https://unity.com/)  [<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRseQp0JrDBP6bRHgcH5C6fmvJkJUdwTAFxPxNLZExMC2akXjjzvU3HaqGsE6f8VtRutPE&usqp=CAU' alt='blender' height='40'>](https://www.blender.org//)
 
 ##
 
