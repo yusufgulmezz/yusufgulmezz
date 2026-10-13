@@ -19,16 +19,16 @@ I design and develop high-end digital experiences for design-driven companies th
 <tr>
     <div style="margin-bottom: 12px;">
       <a href="https://www.linkedin.com/in/yusufglmz">
-        <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/social/linkedin.png" width="5%" alt="LinkedIn">
+        <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/social/linkedin.png" width="7%" alt="LinkedIn">
       </a>
       <a href="https://yusufgulmezz.github.io/portfolio">
-        <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/social/portfolio.png" width="5%" alt="Portfolio">
+        <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/social/portfolio.png" width="7%" alt="Portfolio">
       </a>
       <a href="https://www.behance.net/designeverythink">
-        <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/social/behance.png" width="5%" alt="Béhance">
+        <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/social/behance.png" width="7%" alt="Béhance">
       </a>
       <a href="https://yusufgulmezz.medium.com">
-        <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/social/medium.png" width="5%" alt="Medium">
+        <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/social/medium.png" width="7%" alt="Medium">
       </a>
     </div>
 </tr>
@@ -36,37 +36,37 @@ I design and develop high-end digital experiences for design-driven companies th
 <tr>
     <div style="margin-bottom: 12px;">
       <a href="https://claude.ai">
-        <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/tech/Claude.png" width="5%" alt="Claude">
+        <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/tech/Claude.png" width="7%" alt="Claude">
       </a>
       <a href="https://www.figma.com">
-        <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/tech/Figma.png" width="5%" alt="Figma">
+        <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/tech/Figma.png" width="7%" alt="Figma">
       </a>
       <a href="https://reactnative.dev">
-        <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/tech/React%20logo.png" width="5%" alt="ReactNative">
+        <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/tech/React%20logo.png" width="7%" alt="ReactNative">
       </a>
       <a href="https://www.typescriptlang.org">
-        <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/tech/TypeScript.png" width="5%" alt="TypeScript">
+        <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/tech/TypeScript.png" width="7%" alt="TypeScript">
       </a>
       <a href="https://firebase.google.com">
-        <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/tech/Firebase.png" width="5%" alt="Firebase">
+        <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/tech/Firebase.png" width="7%" alt="Firebase">
       </a>
       <a href="https://expo.dev">
-        <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/tech/Expo%20logo.png" width="5%" alt="Expo">
+        <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/tech/Expo%20logo.png" width="7%" alt="Expo">
       </a>
       <a href="https://git-scm.com">
-        <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/tech/Git.png" width="5%" alt="Git">
+        <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/tech/Git.png" width="7%" alt="Git">
       </a>
       <a href="https://www.notion.com">
-        <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/tech/Notion-logo%20logo.png" width="5%" alt="Notion">
+        <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/tech/Notion-logo%20logo.png" width="7%" alt="Notion">
       </a>
       <a href="https://www.adobe.com/tr/products/photoshop.html">
-        <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/tech/Photoshop.png" width="5%" alt="AdobePhotoshop">
+        <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/tech/Photoshop.png" width="7%" alt="AdobePhotoshop">
       </a>
       <a href="https://www.blender.org">
-        <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/tech/Blender.png" width="5%" alt="Blender">
+        <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/tech/Blender.png" width="7%" alt="Blender">
       </a>
       <a href="https://www.aseprite.org">
-        <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/tech/Aseprite.png" width="5%" alt="Aseprite">
+        <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/tech/Aseprite.png" width="7%" alt="Aseprite">
       </a>
     </div>
 </tr>
@@ -82,10 +82,10 @@ I design and develop high-end digital experiences for design-driven companies th
     <!-- Mağaza İkonları -->
     <div style="margin-bottom: 12px;">
       <a href="https://apps.apple.com/kz/app/triply-travel-planner/id6757344673">
-        <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/AppStore.png" width="15%" alt="App Store">
+        <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/store/AppStore.png" width="15%" alt="App Store">
       </a>
       <a href="https://play.google.com/store/apps/details?id=com.letradev.triply&pcampaignid=web_share">
-        <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/PlayStore.png" width="15%" alt="Play Store">
+        <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/store/PlayStore.png" width="15%" alt="Play Store">
       </a>
     </div>
     <!-- Büyük Görsel -->
@@ -105,7 +105,7 @@ I design and develop high-end digital experiences for design-driven companies th
       <!-- Mağaza İkonları -->
     <div style="margin-bottom: 12px;">
       <a href="https://yusufgulmezz.github.io/portfolio">
-        <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/Web.png" width="18%" alt="Portfolio">
+        <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/store/Web.png" width="18%" alt="Portfolio">
       </a>
     </div>
       <!-- Büyük Görsel -->
