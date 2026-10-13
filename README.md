@@ -11,7 +11,7 @@ I design and develop high-end digital experiences for design-driven companies th
 - **Development:** React Native, TypeScript, Mobile Apps
 - **Goal:** Turning complex ideas into elegant solutions.
 
-###### Drop me a mail designeverythink.co@gmail.com
+###### Drop me a mail yusuf.gullmez@gmail.com
 
 
 ##
@@ -49,7 +49,7 @@ I design and develop high-end digital experiences for design-driven companies th
       <!-- Mağaza İkonları -->
     <div style="margin-bottom: 12px;">
       <a href="https://yusufgulmezz.github.io/portfolio">
-        <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/Web.png" width="20%" alt="Portfolio">
+        <img src="https://raw.githubusercontent.com/yusufgulmezz/yusufgulmezz/refs/heads/main/Web.png" width="18%" alt="Portfolio">
       </a>
     </div>
       <!-- Büyük Görsel -->
