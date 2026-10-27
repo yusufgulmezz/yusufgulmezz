@@ -11,7 +11,7 @@ I design and develop high-end digital experiences for design-driven companies th
 - **Development:** React Native, TypeScript, Mobile Apps
 - **Goal:** Turning complex ideas into elegant solutions.
 
-###### Drop me a mail yusuf.gullmez@gmail.com
+###### Drop me a mail: yusuf.gullmez@gmail.com
 
 ##
 ###### My Social & Tech
