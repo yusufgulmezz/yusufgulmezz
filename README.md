@@ -123,4 +123,6 @@ I design and develop high-end digital experiences for design-driven companies th
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yusufgulmezz&layout=compact&theme=nord" width="260" alt="Yusuf Gülmez'in En Çok Kullandığı Diller"/>
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yusufgulmezz&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=a9b1d6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=yusufgulmezz.yusufgulmezz&left_color=darkgray&right_color=bisque&left_text=Profile%20View"  />
+</div>
