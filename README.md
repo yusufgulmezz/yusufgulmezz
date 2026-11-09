@@ -122,7 +122,3 @@ I design and develop high-end digital experiences for design-driven companies th
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=yusufgulmezz&theme=nord" width="365" alt="Yusuf Gülmez'in GitHub Streak İstatistikleri"/>
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yusufgulmezz&layout=compact&theme=nord" width="260" alt="Yusuf Gülmez'in En Çok Kullandığı Diller"/>
 </p>
-
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=yusufgulmezz.yusufgulmezz&left_color=darkgray&right_color=bisque&left_text=Profile%20View"  />
-</div>
